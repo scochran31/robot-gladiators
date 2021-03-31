@@ -10,4 +10,6 @@ function fight () {
     window.alert('The fight has begun!');
 }
 
-fight();
+var name = "your name"
+console.log(name)
+//fight();
