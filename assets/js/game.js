@@ -50,6 +50,6 @@ var promptFight = window.prompt("Would you like to FIGHT or SKIP this battle? En
 
     } else {
         window.alert("You need to pick a valid option. Try again!");
-    };
+};
 
 fight ();
